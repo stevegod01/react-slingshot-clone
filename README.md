@@ -1,3 +1,19 @@
+# Reference archive
+
+This repository is retained as an imported Cory House React Slingshot starter.
+
+Original starter documentation, demo and MIT license are preserved. This repository is not an original product implementation.
+
+Maintained source or successor: [https://github.com/coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot).
+
+## Maintenance status
+
+Preserved for reference; no claim of current production readiness or passing CI. Original attribution and license notices remain applicable. Portfolio projects are listed at [stevegod01](https://github.com/stevegod01).
+
+---
+
+## Original project documentation
+
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/3129129/22811426/bb69dc06-ef0c-11e6-8092-a0bea9060b35.png"/>
 </p>
